@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33a8a1e2-e2ea-403f-8375-1bbbd4a3b9d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/pages/CreateAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/pages/WomenSummerDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/main/java/com/automation/drivermanager/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/com/automation/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/com/automation/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/com/automation/steps/createnewaccountsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/com/automation/steps/shoppincartsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/com/automation/steps/summerdressessteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/resources/featurefile/createnewaccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/resources/featurefile/shoppingcart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationweek14/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/main/java/com/products/model/ProductsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/main/java/com/products/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/DeleteProductId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/GetAllProductsId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/GetSingleData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/PatchUpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/PostCreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/productsdata/ProductCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/storesdata/AssertionStores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/storesdata/ExtractionStores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyApiHomeWork15/src/test/java/com/products/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/pages/CarSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/pages/FindDealersSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/pages/UserCarSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/main/java/com/carsguide/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/com/carsguide/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/com/carsguide/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/com/carsguide/steps/buysteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/com/carsguide/steps/finddealersteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/com/carsguide/steps/usedsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/resources/featurefile/buy.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/resources/featurefile/finddealers.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carsguide/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/main/java/com/gorest/model/GorestUserDataPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/main/java/com/gorest/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/assertion/Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/DeleteNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/GetAllUserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/GetSingleUserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/GorestUserDataCRUDData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/PatchUpdateNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/gorest/PostCreateNewUserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GorestAPIhomework15/src/test/java/com/gorest/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/Home work week 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home work week 5/src/week_5/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/HomeWorkWeek8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/abstractexample23/Circle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/abstractexample23/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/abstractexample23/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/abstractexample23/TestAbstraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/constractoroverloading/Student5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/encapsulation26/Encapsulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Main17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Main19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/MainClass20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/homeworkweek_8/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/methodoverriding23/Bike2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/methodoverriding23/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/methodoverriding24/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/multilevelinheritance23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/multilevelinheritance23/BabyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/multilevelinheritance23/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkWeek8/src/multilevelinheritance23/TestInheritance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/Homework week_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework week_7/src/homework/Solve_TodayTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/Homeworkweek10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/src/automationexercise/AutomationExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homeworkweek10/src/automationexercise/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/Interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/abstraction/Abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/abstraction/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/abstraction/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/abstraction/ChildClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/abstraction/GrandChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/arrys/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/collection_demo/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/collection_demo/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/collection_demo/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/conditional_statement/If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/conditional_statement/If_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/conditional_statement/Nested_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/conditional_statement/Switch_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/demointerface/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/demointerface/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/demointerface/Demo_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/demointerface/Test_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/encapsulation/Encapsulation_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/expceptionhandling/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/expceptionhandling/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/expceptionhandling/Test1Anotherexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/inheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/inheritance/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/loop/Do_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/loop/For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/loop/While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/polymorphim/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/polymorphim/Constructor_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/polymorphim/Merhod_Overloding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/polymorphim/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/print/Print_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/print/Print_Name2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/print/Print_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/scanner_class/Scanner_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/My prectice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My prectice/src/week_6/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/main/java/Com/NHS/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/main/java/Com/NHS/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/main/java/Com/NHS/pages/NHSFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/main/java/Com/NHS/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/main/java/Com/NHS/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/Com/NHS/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/Com/NHS/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/Com/NHS/steps/nhssteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/resources/featurefile/nhs.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NHSWeek14/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/AddUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/pages/ViewSystemUsersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/main/java/com/orangehrm/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/tastbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testsuite/GrouppingLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/com/orangehrm/testsuite/UsersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/runners/testngusertest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrengHrmweek12/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/main/java/com/reqress/model/ReqresPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/main/java/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/assertion/AssertionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/DELETEData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/GetAllData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/GetDeleteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/PATCHUpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/POSTCreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/reqresdata/ReqresCRUDData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reqresapiweek15/src/test/java/com/reqress/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/main/java/com/restapi/model/RestAPIPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/main/java/com/restapi/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/assertion/AssertionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/restapi/DeleteNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/restapi/GetAllRestApiData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/restapi/PatchUpdateNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/restapi/PostCreateNewdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/restapi/RestAPICRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestApiHomework15/src/test/java/com/restapi/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restfulbooker/model/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restfulbooker/model/BookingPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restfulbooker/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/AutheticationAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/BookingCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/DeleteBookingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/GetAllBookingId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/POSTCreateNewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/PatchUpdatetheData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/main/java/com/saucedemo/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/main/java/com/saucedemo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/main/java/com/saucedemo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/main/java/com/saucedemo/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/com/saucedemo/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/com/saucedemo/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/com/saucedemo/steps/loginsteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SauceDemoWeek14/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student restssured/studApp-restassured/student-app-restassured.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/managedriver/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/pages/CreateAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/pages/WomanCategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/main/java/com/automation/utilites/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/java/com/automation/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/java/com/automation/Steps/CreateaccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/java/com/automation/Steps/SignInPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/java/com/automation/Steps/WomanCategoryStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/java/com/automation/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/featurefile/SignIn.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/featurefile/createaccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/featurefile/womancategorypagetest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation-practice/src/test/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/codbustertesting1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/src/method/Instance_Static_Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/src/method/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/src/method/Test_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/src/operator/Operator_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codbustertesting1/src/string_methods/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/com-herokuapp-sw-2-week11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/src/browserfacory/BasetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokuapp-sw-2-week11/src/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/com-herokupp-sw-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-herokupp-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/com-nopcommerce-sw-2-week11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/src/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/src/testsuite/TopManuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2-week11/src/utilitis/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/com-nopcommerce-sw-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/src/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/src/testsuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/com-orangehrmlive-sw-2-week11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/src/testsuite/ForgotPasswordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2-week11/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/com-orangehrmlive.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/src/testsuite/ForgotPasswordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive.com/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/com-saucedemo-sw-2-week11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/src/browserfacory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2-week11/src/utilitis/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/com-saucedemo-sw-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/com-utimateqa-sw-2-week11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2-week11/src/utilitis/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/com-utimateqa-sw-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-utimateqa-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/main/java/uk/co/library/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/main/java/uk/co/library/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/main/java/uk/co/library/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/main/java/uk/co/library/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/main/java/uk/co/library/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/resources/featurefile/jobsearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/uk/co/library/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/uk/co/library/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-libray-uk/src/test/java/uk/co/library/steps/VerifyJobSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/drivermanager/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/steps/VisaConfirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/featurefile/visaconfirmation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/homeworkweek9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/calculate/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/calculate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkweek9/src/homeworkweek/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/drivermanger/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/BuildYourOwnComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/Desktopspage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/main/java/com/nopcommerce/demo/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/featurefile/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/com/nopcommerce/demo/resources/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/resources/featurefile/jonserchtest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nop-commerce-demo/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/nopcommerce-week11-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/src/computer/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/src/electonics/ElectronicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/src/homepage/TopManuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommerce-week11-new/src/utilitis/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/driver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/src/oragehrm/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/src/oragehrm/FireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/src/oragehrm/MicroSoftEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm/week9orangehrm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/pages/ComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/pages/ElectronicsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/pages/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/pages/QuantityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/pages/TopMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/ComputerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/ComputerTestGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/ElectronicTestGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/ElectronicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/com/nopcommerce/demo/testsuite/TopMenuTestGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/Jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/Jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/Jar/selenium-server-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/actionclass/TestDragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/actionclass/TestKeyBoardEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/actionclass/TestMousehover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/actionclass/TestRightClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/actionclass/TestSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/alartexample/TestAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/brwoserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/brwoserfactory/MultiBrowserTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/gridandlist/TestGridAndList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/locatordemo/LocarorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/locatordemo/LocatorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/locatordemo/LocatorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/locatordemo/LocatorDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/locatordemo/LocatotorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/selectexample/TestDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/selectexample/TestDropDownList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/seleniumwait/FluentWaitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/seleniumwait/TEstExplicityWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/swichwindows/TestMultipalWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/swichwindows/TestSwitchWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/swichwindows/TestiFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/src/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/week10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/src/browser/ChromeBrowserTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/src/firefox/FireFoxTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/src/microsoftedge/MicroSoftEdgeTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9nopcommerce/week9nopcommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/dirver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/dirver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/dirver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/src/saucedemo/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/src/saucedemo/FireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/src/saucedemo/MicroSoftEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9saucedemo/week9saucedemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/src/Today_1/Challnge_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/week_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/src/automationtest/ArrayList_Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/src/automationtest/ForLoop_Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/src/automationtest/IfThenElse_Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/src/automationtest/MyName_Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/src/automationtest/Variable_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../welcome-to-automation/welcome-to-automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/AllType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/My.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/My1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/MyReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/prectice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/xyz.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FXpeTLB0V8Yb3pUI1xJVhwoEkW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/arpitkumar/Desktop/Git Prectice/Homework6/RestfulBookingApiweek15/src/test/java/com/restfulbooker/restfulbooker"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arpitkumar\Desktop\Git Prectice\Homework6\RestfulBookingApiweek15\src\test\java\com\restfulbooker\restfulbooker" />
+      <recent name="C:\Users\arpitkumar\Desktop\Git Prectice\Homework6\RestfulBookingApiweek15\src\main\java\com\restfulbooker" />
+      <recent name="C:\Users\arpitkumar\Desktop\Git Prectice\Homework6\RestfulBookingApiweek15\src\test\java\com\restfulbooker" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.restfulbooker.restfulbooker" />
+      <recent name="com.restfulbooker.testbase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookingCRUDTest">
+    <configuration name="BookingCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestfulBookingApiweek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restfulbooker.restfulbooker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restfulbooker.restfulbooker" />
+      <option name="MAIN_CLASS_NAME" value="com.restfulbooker.restfulbooker.BookingCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingCRUDTest.CreateData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestfulBookingApiweek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restfulbooker.restfulbooker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restfulbooker.restfulbooker" />
+      <option name="MAIN_CLASS_NAME" value="com.restfulbooker.restfulbooker.BookingCRUDTest" />
+      <option name="METHOD_NAME" value="CreateData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteBookingData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestfulBookingApiweek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restfulbooker.restfulbooker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restfulbooker.restfulbooker" />
+      <option name="MAIN_CLASS_NAME" value="com.restfulbooker.restfulbooker.DeleteBookingData" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteBookingData.DeleteData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestfulBookingApiweek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restfulbooker.restfulbooker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restfulbooker.restfulbooker" />
+      <option name="MAIN_CLASS_NAME" value="com.restfulbooker.restfulbooker.DeleteBookingData" />
+      <option name="METHOD_NAME" value="DeleteData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POSTCreateNewData.CreateData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestfulBookingApiweek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restfulbooker.restfulbooker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restfulbooker.restfulbooker" />
+      <option name="MAIN_CLASS_NAME" value="com.restfulbooker.restfulbooker.POSTCreateNewData" />
+      <option name="METHOD_NAME" value="CreateData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingCRUDTest" />
+        <item itemvalue="JUnit.DeleteBookingData.DeleteData" />
+        <item itemvalue="JUnit.DeleteBookingData" />
+        <item itemvalue="JUnit.BookingCRUDTest.CreateData" />
+        <item itemvalue="JUnit.POSTCreateNewData.CreateData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a8a1e2-e2ea-403f-8375-1bbbd4a3b9d1" name="Changes" comment="" />
+      <created>1664648379248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664648379248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/POSTCreateNewData.java</url>
+          <line>16</line>
+          <properties class="com.restfulbooker.restfulbooker.POSTCreateNewData" method="CreateData">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restfulbooker/restfulbooker/DeleteBookingData.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
